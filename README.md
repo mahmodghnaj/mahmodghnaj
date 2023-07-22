@@ -17,12 +17,16 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/javascript.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest.js" alt="Nest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> -->
+ <img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/javascript.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/typescript.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/next.svg" title="nextJs" alt="nextJs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/vue.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
+<img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/node.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/nest.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
+<img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/mongodb.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+<img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/gitlab.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+
 </div>
 
 <!--
