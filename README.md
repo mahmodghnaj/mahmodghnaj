@@ -10,11 +10,11 @@
 
 - :zap: In my free time, I love to read about design patterns, software architecture and blockchain inovations.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmod-ghnaj-74842b210/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mahmod-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmod-ghnaj-74842b210/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
  <img src="https://github.com/mahmodghnaj/mahmodghnaj/blob/main/icons/javascript.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
