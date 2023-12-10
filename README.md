@@ -2,7 +2,7 @@
 
 ## Nice to see you 👋
 
-### :ear: About Me :
+### About Me :
 
 - :telescope: I’m working as a _**Full-stack web**_.
 
